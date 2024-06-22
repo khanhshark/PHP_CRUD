@@ -1,0 +1,1 @@
+ totalQuantity: -1 // Sắp xếp theo tổng số lượng mặt hàng bán được (giảm dần)
